@@ -1,6 +1,6 @@
-Image To Text/ Caption Genration
-# image-caption-genration
-This project can generate captions of a image using resnet50.
+Image-To-Text / Caption Generation
+# image-caption-generation
+This project can generate captions of an image using resnet50.
 
 DATA:
 You can find the data by visiting these links:
